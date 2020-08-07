@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/deploy-fullcalendar/static/css/main.5f361e03.chunk.css",
+    "main.js": "/deploy-fullcalendar/static/js/main.17de9392.chunk.js",
+    "main.js.map": "/deploy-fullcalendar/static/js/main.17de9392.chunk.js.map",
+    "runtime-main.js": "/deploy-fullcalendar/static/js/runtime-main.895c97b4.js",
+    "runtime-main.js.map": "/deploy-fullcalendar/static/js/runtime-main.895c97b4.js.map",
+    "static/css/2.1b8b8b2d.chunk.css": "/deploy-fullcalendar/static/css/2.1b8b8b2d.chunk.css",
+    "static/js/2.c8417b1f.chunk.js": "/deploy-fullcalendar/static/js/2.c8417b1f.chunk.js",
+    "static/js/2.c8417b1f.chunk.js.map": "/deploy-fullcalendar/static/js/2.c8417b1f.chunk.js.map",
+    "index.html": "/deploy-fullcalendar/index.html",
+    "precache-manifest.ff30e42c3d76b1abde02b72348e97f39.js": "/deploy-fullcalendar/precache-manifest.ff30e42c3d76b1abde02b72348e97f39.js",
+    "service-worker.js": "/deploy-fullcalendar/service-worker.js",
+    "static/css/2.1b8b8b2d.chunk.css.map": "/deploy-fullcalendar/static/css/2.1b8b8b2d.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/deploy-fullcalendar/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c8417b1f.chunk.js.LICENSE.txt": "/deploy-fullcalendar/static/js/2.c8417b1f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/deploy-fullcalendar/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.895c97b4.js",
+    "static/css/2.1b8b8b2d.chunk.css",
+    "static/js/2.c8417b1f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.17de9392.chunk.js"
+  ]
+}
